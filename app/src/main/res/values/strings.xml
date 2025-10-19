@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GallerySlider</string>
+
+    <!-- Gallery Screen -->
+    <string name="gallery_title">Gallery</string>
+    <string name="gallery_items_count">%d items</string>
+    <string name="empty_gallery">No images available</string>
+
+    <!-- Slider Screen -->
+    <string name="slider_index_indicator">%1$d of %2$d</string>
+    <string name="swipe_hint">Swipe left or right to browse</string>
+    <string name="back_to_gallery">Back to Gallery</string>
+
+    <!-- Content Descriptions (Accessibility) -->
+    <string name="cd_gallery_image">Gallery image. Double tap to view fullscreen.</string>
+    <string name="cd_slider_image">Image %1$d of %2$d. Swipe left or right to browse.</string>
+    <string name="cd_back_button">Back to Gallery</string>
+
+    <!-- Error States -->
+    <string name="error_image_load">Failed to load image</string>
+</resources>
